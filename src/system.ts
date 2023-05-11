@@ -10,7 +10,7 @@ export const defaultSetting = {
   model: "gpt-3.5-turbo" as Model
 }
 
-export const defaultMessage = `Powered by OpenAI 跨境法老Pharaoh
+export const defaultMessage = `Powered by OpenAI PharaohGPT
 - 此工具仅供新人交流学习，禁止利用此工具做违反法律和道德的事情，不准说敏感词和脏话，一经发现拉入黑名单。Restpect~
 - [[Shift]] + [[Enter]] 换行。开头输入 [[/]] 或者 [[空格]] 搜索 Prompt 预设。[[↑]] 可编辑最近一次提问。点击顶部名称滚动到顶部，点击输入框滚动到底部。`
 
