@@ -82,62 +82,65 @@ Please help me design a unique packaging for the {portable power station} produc
 ## EN/开发/产品设计/产品说明书
 write a user manual for a portable power station , including but not limited to, brand introduction, product description, product accessories, product functions, product usage instructions, and product after-sales support.
 
+## EN/运营/批量QA生成
+According to the following product information, generate the top {10} customer concerns regarding {portable power stations} and answer each one. The product information is as follows: {Anker 521 Portable Power Station, 256Wh Solar Generator (Solar Panel Optional) with LiFePO4 Battery Pack, 200W 6-Port PowerHouse, 2 AC Outlets, 60W USB-C PD Output, LED Light for Outdoor Camping, RV. }Be sure to embed the following keywords: {portable power station, power generator, solar generator, power supply, power bank.}
 
+## EN/运营/批量QA生成
+According to the following product information, generate the top {10} customer concerns regarding {portable power stations} and answer each one. The product information is as follows: {Anker 521 Portable Power Station, 256Wh Solar Generator (Solar Panel Optional) with LiFePO4 Battery Pack, 200W 6-Port PowerHouse, 2 AC Outlets, 60W USB-C PD Output, LED Light for Outdoor Camping, RV. }Be sure to embed the following keywords: {portable power station, power generator, solar generator, power supply, power bank.}
 
-## EN/开发/产品设计/关键词布局
+## EN/运营/批量Review生成
+Write {10} product reviews in English based on the following information. Each review should include a title and content. The information is as follows: {Anker 521 Portable Power Station, 256Wh Solar Generator (Solar Panel Optional) with LiFePO4 Battery Pack, 200W 6-Port PowerHouse, 2 AC Outlets, 60W USB-C PD Output, LED Light for Outdoor Camping, RV.} Be sure to include the following keywords: {portable power station, power generator, solar generator, power supply, power bank.}
 
+## EN/运营/Listing五行撰写
+You are a professional Amazon listing and SEO expert in {USA}. You will write native, vivid and specific listing for me, which can impress consumers and generate a desire to buy our products. The information is as follows:Output: {Bullet Points}Product: {Portable power station}Brand: {Anker}Features: {LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port.5 USB ports, LED lights}Embeding Keywords： {Portable Power Station, Portable Generator, Solar Generator}Answer in: {English}
 
-## EN/开发/产品设计/关键词布局
+## EN/运营/Listing标题撰写
+Generate 5 Amazon product titles with 150-200 characters each, including the following keywords: {portable power station, solar generator, portable generator}. Use the following information: {Anker, LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port. 5 USB ports, LED lights, for outdoor lovers}.Reference title: {Anker 521 Portable Power Station, 256Wh Solar Generator (Solar Panel Optional) with LiFePO4 Battery Pack, 200W 6-Port PowerHouse, 2 AC Outlets, 60W USB-C PD Output, LED Light for Outdoor Camping, RV}.
 
+## EN/运营/Listing描述撰写
+According to the following information, please generate an Amazon product description in English, including product parameters, selling points, packaging, and usage instructions. Use emojis to make the text more vivid and embed the following keywords: {portable power station, solar generator, portable generator}. The information is as follows: {Anker, LiFePO4 Battery, 1000W/1200WH, fast charging for 30 minutes, 2 Ac ports. 1 DC port.5 USB ports, LED lights, for outdoor lovers}. Output in HTML format.
 
+## EN/运营/Listing五行优化
+Optimize the following Amazon listing with accurate, clear, localized, vivid, specific, and professional language that has no grammar errors and can appeal to {US} consumers, in order to increase product click-through rates and conversion rates. Embed the following keywords: {portable power station, power generator, solar generator, power supply, power bank}. Finally, provide the reasons for optimization:{【Safe & Stable Power Supply】：EBL portable power station is equipped with 300Wh lithium-ion battery pack, which contains upgraded chip, supports fast charging function and more than 1000 recycling times. 【Portable Power Station】: It is only 3.3KG with portable size. You can easily pick it up with one hand by the Non-slip handle. Charge your EBL Power Station through the wall outlet in home, or through the car outlet during a road trip, even through solar panel during outside holiday.【Up to 9 Simultaneous Devices】: Featuring 3* DC outlet, 3* fast charge 3.0 port, 1* AC outlet, 1* PD 60W USB-C port and 1*Wireless Charging for phone. 【Solar Energy & Green Power】: EBL 330W power station device supports solar charging and is recommended for use with solar panels together. 【Contains & Services】: WHAT YOU GET: 1* EBL Voyager MP330 Portable Power Station, 1*100-240V AC Wall Adapter, 1* 12V Car Charger Cable, 1* MC4 Connector Cable, 1* User Manual. EBL Official offers you 12 months warranty and high-quality customer service.}
 
-## 效率工具/英语翻译优化
-I will speak to you in any language and you will detect the language, translate it and answer in the corrected and improved version of my text, in English. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, upper-level English words and sentences. Keep the meaning the same, but make them more literary. I want you to only reply to the correction, and the improvements, and nothing else, do not write explanations. My first sentence is[je voudrais un verre de vin].
+## EN/运营/产品图片设计
+What are some images I could add to an Amazon listing for {pencil case}
 
-## 效率工具/中英文翻译
-If I speak chinese, you will translate into english, and if I speak english you will  translate into chinese.  My first sentence is [How are you].
+## EN/运营/相关词
+find the most relevant and searched for {portable power station} search terms,According to Google Trends,sorted in descendingorder and given corresponding values.
 
-## 开发/选品灵感/节日法
-What holidays in the [United States] are appropriate for giving gifts to others and when are they held, and what are the gifts ideas ？
+## EN/运营/同义词
+I want you to act as a synonyms provider. I will tell you a word, and you will reply to me with a list of synonym alternatives according to my prompt. Provide a max of 10 synonyms per prompt. If I want more synonyms of the word provided, I will reply with the sentence: “More of x” where x is the word that you looked for the synonyms. You will only reply to the word list and nothing else. Words should exist. Do not write explanations. Reply “OK” to confirm.
 
-## 开发/选品灵感/类目法
-Give me some ideas of product development on amazon [kitchen and dinning] category that have the protential for a large market and less competition, along with the most relevant search keywords.
+## EN/运营/长尾词
+find the long tail kewords of {portable power station} with high relavent and high search volume is divided according to functions, usage scenarios and groups of people.According to Google Trends,sorted in descending order and given corresponding values.
 
-## 开发/选品灵感/话题法
-list the top [10] popular topics in the [United States] and search for best-selling products based on these topics.
+## EN/运营/LSI词
+Generate a list of LSI keywords for {portable power station}
 
-## 开发/选品灵感/场景法
-What products are commonly purchased by [Americans] for their [bathrooms]?
+## EN/运营/竞品功能对比
+provide a comparative analysis of the functions of the following products and present the results in a table format：{data}
 
-## 开发/市场调研/市场容量
-analyze the market capacity and annual sales of [portable power stations] in the [United States]
+## EN/运营/竞品评论归纳
+Analyze the following list of product reviews.{Review}Create a list summarizing:Top 5 phrases people used to describe the product,Top 5 things people like about the product,Top 5 things people dislike about the product,Top 5 desired improvements,Add any other insights that may be valuable.Summarize the customer avatar.
 
-## 开发/市场调研/产品情况
-provide a detailed description of the functions of the [portable power station]
+## EN/运营/竞品QA归纳
+nalyze the following QA content and summarize the frequently asked questions by customers {QA}
 
-## 开发/市场调研/客户FQA
-Regarding [portable power stations], what are some common questions that customers often ask.
+## EN/运营/文案打比喻
+Suggest 5 metaphors to describe the benefits of {portable power station}
 
-## 开发/市场调研/产品差评
-What are the most common criticisms that customers give for [portable power stations].
+## EN/运营/品牌名设计
+give me 10 brand name ideas for the product of {portable power station}
 
-## 开发/产品设计/外观差异化
-How to differentiate the design of [portable power stations] based on appearance（shape,color,material） to meet the aesthetic preferences of [American] consumers and increase product conversion rates.
+## EN/运营/品牌故事设计
+Write a brand story for a {portable power station}, the brand name is {Anker}. The brand story should not only showcase the {professionalism} of the brand but also {evoke emotions and resonate with customers}
 
-## 开发/产品设计/功能差异化
-How to differentiate the design of [portable power stations] based on functionality to meet the aesthetic preferences of [American] consumers and increase product conversion rates
+## EN/运营/Slogan设计
+write 10 nice slogan for {portable power station}
 
-## 运营/关键词收集/同义词
-Generate a list of synonym keywords for [portable power station].
-
-## 运营/关键词收集/LSI
-Generate a list of LSI keywords for [portable power station].
-
-## 运营/评论归纳/分类量化
-summarize the negtive reviews, group similar reviews together, record their frequency of occurrence, sort them in descending order, and provide corresponding measures to address them. Output the results in a table format：[data]
-
-## 运营/Listing优化
-Analyze the bullet points of my existing copy and explain why it is effective or not effective in grabbing attention and getting customers to convert：[bullet points].
+## EN/运营/Logo设计
+My brand is {Anker}. Please help me design a logo for {portable power station} based on my brand name. Please describe your logo design in detail, including logo pattern, color, font, and explain the meaning.
 
 ## 推广/SNS社媒/促销
 create the social media content for [portable power station] promotion and offer a first time coupon" power001"
