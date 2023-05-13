@@ -1,6 +1,9 @@
 ## EN/开发/选品灵感/节日法
 What holidays in the United States are appropriate for giving gifts to others and when are they held？
 
+## 中文/开发/选品灵感/节日法
+N好的发达的
+
 ## EN/开发/选品灵感/场景法
 What furnitures are commonly purchased by Americans for their bathrooms?
 
