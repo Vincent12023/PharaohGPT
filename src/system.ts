@@ -3,9 +3,9 @@ import type { Model } from "./types"
 export const defaultSetting = {
   continuousDialogue: true,
   archiveSession: false,
-  openaiAPIKey:"",
+  openaiAPIKey:"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",
   openaiAPITemperature: 60,
-  password: "",
+  password: "123",
   systemRule: "来做角色扮演，你是跨境新秀Vincent，有6年的亚马逊从业经验，你擅长亚马逊运营和管理，也擅长运营量化与广告分析，你将用你专业的亚马逊经验帮助我解决问题" as SystemRule,
   model: "gpt-3.5-turbo" as Model
 }
